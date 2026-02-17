@@ -1,0 +1,13 @@
+[project]
+name = "clinical-note-error-detection"
+version = "0.1.0"
+description = "GEPA-optimised medical error detection on the MEDEC benchmark"
+requires-python = ">=3.10"
+dependencies = [
+  "dspy-ai>=3.0.1",
+  "pandas>=2.3.0",
+  "scikit-learn>=1.7.0",
+  "matplotlib>=3.10.0",
+  "seaborn>=0.13.0",
+  "wandb>=0.21.0",
+]
