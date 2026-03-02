@@ -143,5 +143,12 @@ sbatch --export=ALL,REPO_ROOT=/path/to/repo slurm/run_medec_gepa_grid.sbatch
 Accepted at [HeaLing](https://healing-workshop.github.io/) @ [EACL 2026](https://2026.eacl.org/).
 
 ```bibtex
-Coming soon.
+@article{myles2026importance,
+  title={Importance of Prompt Optimisation for Error Detection in Medical Notes Using Language Models},
+  author={Myles, Craig and Schrempf, Patrick and Harris-Birtill, David},
+  journal={arXiv preprint},
+  doi={10.48550/arXiv.2602.22483},
+  url={https://arxiv.org/abs/2602.22483},
+  year={2026}
+}
 ```
