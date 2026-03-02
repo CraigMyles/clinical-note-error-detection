@@ -2,7 +2,7 @@
   Importance of Prompt Optimisation for Error Detection in Medical Notes Using Language Models
 </h1>
 
-[Publication (coming soon)](#citation) | [MEDEC Dataset](https://github.com/abachaa/MEDEC) | [Citation](#citation)
+[Paper](https://arxiv.org/abs/2602.22483) | [MEDEC Dataset](https://github.com/abachaa/MEDEC) | [Citation](#citation)
 
 ## Summary
 
